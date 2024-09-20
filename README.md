@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santana</h1>
-<h3 align="center">A passionate rustacean/rust developer, who loves all areas of programming (except frontend)</h3>
+<h3 align="center">A passionate low level and backend developer (with ocassional game development here and there), who loves all areas of programming (except frontend)</h3>
 
-- 🔭 I’m currently working on ** Interpretor in Rust**
-
-- 🌱 I’m currently learning **Rust Actix**
+- 🔭 I’m currently working on ** Gaming systems for Kryex Industries **  
 
 - 💬 Ask me about **My reasonings on why rust is such a useful language!**
 
