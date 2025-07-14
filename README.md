@@ -9,5 +9,5 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutablevalue&show_icons=true&locale=en&layout=compact" alt="mutablevalue" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutablevalue&show_icons=true&locale=en&layout=compact" alt="mutablevalue" /></p>
 
